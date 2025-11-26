@@ -1,4 +1,4 @@
-# Swift Metal Ray Tracer
+# Metal Ray Tracer
 
 A high-performance, real-time 3D ray-tracing engine built from scratch using **Swift** and **Metal Compute Shaders**.
 
@@ -20,7 +20,7 @@ Unlike the traditional vertex/fragment pipeline, this engine uses **Compute Kern
 
 ## 📁 Directory Structure
 ```
-SwiftMetalRayTracer/
+MetalRayTracerSwift/
 ├── App/
 ├── UI/
 ├── Renderer/
