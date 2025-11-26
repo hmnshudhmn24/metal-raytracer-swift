@@ -58,6 +58,3 @@ spheres.append(Sphere(
     specular: 0.5
 ))
 ```
-
-## 📄 License
-Open source for educational and experimental use.
